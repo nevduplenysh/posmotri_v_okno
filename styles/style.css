@@ -85,7 +85,6 @@ ol {
 }
 
 .content__list {
-  /* position: relative; */
   height: 298px; 
   overflow-y: auto;
 }
