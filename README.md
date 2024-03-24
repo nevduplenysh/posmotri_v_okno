@@ -1,1 +1,1 @@
-the first submission of the project
+git@github.com:nevduplenysh/posmotri_v_okno.git
